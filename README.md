@@ -1,4 +1,4 @@
-This is a git practice, and this a mofdification from gitHub editor
+Hello, these changes are for the w3schools tutorial
 
-This is another change, trying merge
+
 
